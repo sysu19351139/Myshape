@@ -1,0 +1,100 @@
+Circle constructor
+Circle constructor
+Polygon constructor
+Polygon constructor
+Polygon constructor
+"Shape1:"
+圆心坐标:(4,2)
+半径：2
+周长：6.28
+面积：12.56
+
+"Shape2:"
+圆心坐标:(1,2)
+半径：2
+周长：6.28
+面积：12.56
+
+"Shape3:"
+面积:-1
+周长：6.82843
+第1条边
+长度：2
+点一坐标:(1,2)
+点二坐标:(3,2)
+第2条边
+长度：2
+点一坐标:(3,2)
+点二坐标:(3,4)
+第3条边
+长度：2.82843
+点一坐标:(3,4)
+点二坐标:(1,2)
+
+"Shape4:"
+面积:-1
+周长：5.41421
+第1条边
+长度：2
+点一坐标:(2,2)
+点二坐标:(4,2)
+第2条边
+长度：1
+点一坐标:(4,2)
+点二坐标:(4,3)
+第3条边
+长度：1
+点一坐标:(4,3)
+点二坐标:(3,3)
+第4条边
+长度：1.41421
+点一坐标:(3,3)
+点二坐标:(2,2)
+
+"Shape5:"
+面积:-1
+周长：9.95153
+第1条边
+长度：1
+点一坐标:(3,2)
+点二坐标:(4,2)
+第2条边
+长度：4.12311
+点一坐标:(4,2)
+点二坐标:(5,6)
+第3条边
+长度：2.82843
+点一坐标:(5,6)
+点二坐标:(3,4)
+第4条边
+长度：2
+点一坐标:(3,4)
+点二坐标:(3,2)
+
+ compositeShapes1:
+圆的交:
+交点坐标:(2.5,3.32288)
+交点坐标:(2.5,0.677124)
+the circumference:3.39225
+the area:2.81587
+ compositeShapes2:
+圆的并
+交点坐标:(2.5,3.32288)
+交点坐标:(2.5,0.677124)
+the circumference:9.16775
+the area:21.9041
+ compositeShapes3:
+多边形的交
+ compositeShapes4:
+多边形的交
+ compositeShapes5:
+多边形的并
+ compositeShapes6:
+多边形的并
+ compositeShapes7:
+多边形的交
+ compositeShapes8:
+多边形的并
+
+C:\Users\mqz\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe (进程 4832)已退出，代码为 0。
+按任意键关闭此窗口. . .
